@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Приложение</string>
+    <string name="btn_nav">Настройки</string>
+    <string name="title_description">Описание</string>
+    <string name="title_dark_theme">Темная тема</string>
+    <string name="title_share">Поделиться</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn_nav">Settings</string>
+    <string name="title_description">Description</string>
+    <string name="title_share">Share</string>
+    <string name="title_dark_theme">Dark theme</string>
+</resources>
